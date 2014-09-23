@@ -1,0 +1,29 @@
+body {
+	background: #fff;
+	font: normal 12px/150% "Lucida Grande", "Lucida Sans Unicode", lucida, arial, helvetica, sans-serif;
+	margin: 30px;
+	color: #000;
+}
+
+a:link {
+	background: transparent;
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	background: transparent;
+	color: blue;
+	text-decoration: none;
+}
+	
+a:hover {
+	background: transparent;
+	color: #6F72D0;
+	text-decoration: none;
+}
+
+div#img {
+	margin-bottom: 30px;
+}
+	
